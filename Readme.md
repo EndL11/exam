@@ -1,4 +1,5 @@
 Exam contains two laboratory works
+
 *Fraction*
 
 Created class Fraction which have behavior of calculating is this fraction correct or not
